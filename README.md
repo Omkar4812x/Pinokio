@@ -1,22 +1,31 @@
-# Pinokio
+# 🤖 Pinokio AI Ecosystem Engine
 
-## 📌 Description
-Welcome to **Pinokio**! This project is part of the curated software workspace.
+> **Automated AI toolchain integration, model execution launcher, and local environment script engine.**
+
+---
+
+## ✨ Features
+
+- ⚙️ **One-Click AI Model Execution** (`bin/`)
+  - Automated environment configuration, dependency installation, and launch scripts for open-source AI models.
+- 🛠️ **Local Script & Workflows**
+  - Modular script launchers for local LLMs, stable diffusion UI pipelines, and AI agent servers.
+
+---
 
 ## 🚀 Getting Started
 
-### Prerequisites
-Ensure you have the required runtime environment installed for this project:
-- **Node.js** (if applicable for web/frontend components)
-- **Python 3.10+** (if applicable for AI/voice scripts)
-- **Java JDK 17+** (if applicable for Java applications)
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Omkar4812x/Pinokio.git
+   cd Pinokio
+   ```
 
-### Installation & Execution
-1. Clone this repository to your local machine.
-2. Install dependencies:
-   - For Node.js projects: `npm install`
-   - For Python projects: `pip install -r requirements.txt` (or create a venv: `python -m venv venv`)
-3. Launch the application entry point.
+2. **Launch Scripts**:
+   Execute target script launchers located in the `bin/` directory.
 
-## 📄 License & Attribution
-Created and maintained as part of the Tech Hub projects collection.
+---
+
+## 📄 License
+
+Distributed under the MIT License.
